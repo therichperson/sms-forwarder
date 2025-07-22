@@ -31,7 +31,7 @@ Use responsibly and at your own risk.
 ------------------------
 1. Clone or download the project.
 
-   git clone https://github.com/YourUsername/sms-forwarder.git
+   git clone https://github.com/therichperson/sms-forwarder.git
    cd sms-forwarder
 
 2. Open the project in Android Studio.
